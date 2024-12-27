@@ -1,4 +1,4 @@
-import React, {useState} from "react"
+import {useState} from "react"
 import chapters from "../assets/chapers.json"
 // import Shlokas from "./Shlokas"
 import LangauageBtns from "./LangauageBtns"
